@@ -35,7 +35,7 @@ My username for most things is derpygamer2142, but on Scratch it's insanetaco200
 - The Platformer Shooter thing series. Lots and lots of games for that.
 - Microsoft Movie Maker, in scratch. That's a bunch of sub-projects that I will put together sometime in the future for the final product.
 - Angry birds in Scratch
-- Mooer
+- ~~Mooer~~ mooer is cancelled until further notice
 - Learning godot and making some games
 - A 3d engine in Scratch
 - Slither.io in Scratch (noticing a theme?)
