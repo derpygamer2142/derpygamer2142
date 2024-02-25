@@ -11,7 +11,7 @@ I'm derpygamer2142, I make stuff and stuff
 
 I work on lots of stuff, not all of it in text based languages. My main project is Mooer:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpygamer2142&repo=Mooer)](https://github.com/Mooer-Media/Mooer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpygamer2142&repo=javascript-raymarcher)]([https://github.com/Mooer-Media/Mooer](https://github.com/derpygamer2142/javascript-raymarcher))
 
 
 
@@ -22,7 +22,7 @@ I work on lots of stuff, not all of it in text based languages. My main project 
 much languages, very wow
 
 ### Languages I'm learning
-![Skills](https://skillicons.dev/icons?i=js,css,html,c,cpp,godot)
+![Skills](https://skillicons.dev/icons?i=js,css,html,c,godot)
 
 ### Stuff I use
 ![Skills](https://skillicons.dev/icons?i=godot,vscode,visualstudio,codepen,replit,github,stackoverflow)
