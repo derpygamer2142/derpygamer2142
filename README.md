@@ -9,7 +9,7 @@ I'm derpygamer2142, I make stuff and stuff
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=derpygamer2142&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-I work on lots of stuff, not all of it in text based languages. My main project is Mooer:
+I work on lots of stuff, not all of it in text based languages. My main project is this raymarcher thing:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=derpygamer2142&repo=javascript-raymarcher)]([https://github.com/Mooer-Media/Mooer](https://github.com/derpygamer2142/javascript-raymarcher))
 
